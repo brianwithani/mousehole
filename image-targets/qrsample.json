@@ -3,11 +3,11 @@
   "properties": {
     "top": 393,
     "left": 0,
-    "width": 650,
-    "height": 866,
+    "width": 654,
+    "height": 872,
     "isRotated": false,
-    "originalWidth": 650,
-    "originalHeight": 1654
+    "originalWidth": 654,
+    "originalHeight": 1658
   },
   "imagePath": "image-targets/qrsample_luminance.png",
   "metadata": null,
@@ -18,6 +18,6 @@
     "thumbnailImage": "qrsample_thumbnail.png",
     "luminanceImage": "qrsample_luminance.png"
   },
-  "created": 1789859139371,
-  "updated": 1789859139371
+  "created": 1790117764371,
+  "updated": 1790117764371
 }
